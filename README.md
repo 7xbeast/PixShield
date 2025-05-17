@@ -27,7 +27,7 @@ Clone the repository:  git clone https://github.com/7xbeast/PixShield.git
 
 cd PixShield
 
-Run the tool:  python3 pixshield.py
+Run the tool:  python3 image_encryptor.py
 
 **Usage**
 
